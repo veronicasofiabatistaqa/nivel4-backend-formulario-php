@@ -12,6 +12,27 @@ El objetivo principal es construir un formulario completo que recoja datos perso
 - Validación HTML5 (`required`, `type`, `accept`)
 - Subida de archivos (imagen del usuario)
 - Visualización de datos enviados vía `POST`
-- Estilos básicos aplicables (opcional)
+- Estilos básicos aplicables 
 
-## 📁 Estructura del proyecto
+## 🛠️ Tecnologías utilizadas
+
+- HTML5  
+- PHP 8+  
+- CSS3  
+- Servidor local embebido de PHP
+
+## 📌 Aprendizaje aplicado
+
+- Creación de formularios semánticos accesibles  
+- Validación de entradas del usuario  
+- Recepción de datos con `$_POST` y `$_FILES`  
+- Preparación de proyectos para portfolio profesional  
+- Uso de Git y GitHub para control de versiones
+
+## 📬 Contacto
+
+Este proyecto forma parte del portfolio de **Verónica Sofía Batista**.  
+Si querés contactarme o ver más proyectos:
+
+📧 veronica.sofia.batista@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/veronicasofiabatista)
