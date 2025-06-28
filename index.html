@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario de medidas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Formulario de medidas corporales</h1>
+  <form action="procesar.php" method="POST" enctype="multipart/form-data">
+    <label>Nombre: <input type="text" name="nombre" required></label><br>
+    <label>Apellido 1: <input type="text" name="apellido1" required></label><br>
+    <label>Apellido 2: <input type="text" name="apellido2" required></label><br>
+    <label>Email: <input type="email" name="email" required></label><br>
+    <label>Teléfono: <input type="tel" name="telefono" required></label><br>
+    <label>Altura (cm): <input type="number" name="altura" required></label><br>
+    <label>Peso (kg): <input type="number" name="peso" required></label><br>
+    <label>Anchura de pecho (cm): <input type="number" name="pecho" required></label><br>
+    <label>Anchura de cintura (cm): <input type="number" name="cintura" required></label><br>
+    <label>Anchura de caderas (cm): <input type="number" name="caderas" required></label><br>
+    <label>Foto de cuerpo entero: <input type="file" name="foto" accept="image/*" required></label><br>
+    <label>Dirección de envío: <input type="text" name="direccion" required></label><br>
+    <label>Comentarios:<br>
+      <textarea name="comentarios" rows="4" cols="40"></textarea>
+    </label><br>
+    <label>Método de pago:
+      <select name="metodo_pago" required>
+        <option value="">Selecciona una opción</option>
+        <option value="paypal">PayPal</option>
+        <option value="transferencia">Transferencia bancaria</option>
+        <option value="reembolso">Contra reembolso</option>
+      </select>
+    </label><br><br>
+    <input type="submit" value="Enviar formulario">
+  </form>
+</body>
+</html>
