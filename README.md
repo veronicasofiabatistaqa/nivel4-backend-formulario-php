@@ -1,6 +1,6 @@
 # 🧾 Nivel 4 - Backend: Formulario en HTML y PHP
 
-Este proyecto es una práctica del Nivel 4 Backend, en el que se desarrolla un formulario web utilizando HTML, validación básica y procesamiento de datos con PHP.
+Este proyecto es una práctica del Nivel 4 Backend de FUNDAE, en el que voy a desarrollar un formulario web utilizando HTML, validación básica y procesamiento de datos con PHP.
 
 ## 🚀 Objetivo
 
@@ -36,3 +36,5 @@ Si querés contactarme o ver más proyectos:
 
 📧 veronica.sofia.batista@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/veronicasofiabatista)
+
+Muchas gracias y hasta el proximo repo 🤓.
