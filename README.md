@@ -35,6 +35,6 @@ Este proyecto forma parte del portfolio de **Verónica Sofía Batista**.
 Si querés contactarme o ver más proyectos:
 
 📧 veronica.sofia.batista@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/veronicasofiabatista)
+🌐 [LinkedIn](https://www.linkedin.com/in/veronica-sofia-batista/)
 
-Muchas gracias y hasta el proximo repo 🤓.
+Muchas gracias y hasta el próximo repo 🤓.
